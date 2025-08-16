@@ -28,11 +28,14 @@ AUC-ROC
 
 🔹 Elaborar conclusiones estratégicas señalando los principales factores que influyen en la cancelación.
 
-### 🧰 Lo que vas a practicar
+### 🧰 Actividades a realizar
 
 ✅ Preprocesamiento de datos para Machine Learning
+
 ✅ Construcción y evaluación de modelos predictivos
+
 ✅ Interpretación de resultados y extracción de insights
+
 ✅ Comunicación técnica con enfoque estratégico
 
 ### 📂 Estructura del Repositorio
